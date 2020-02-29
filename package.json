@@ -1,0 +1,26 @@
+{
+  "name": "mocha-chai-scratch",
+  "version": "1.0.0",
+  "description": "Learning mocha with chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cslin82/mocha-chai-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cslin82/mocha-chai-scratch/issues"
+  },
+  "homepage": "https://github.com/cslin82/mocha-chai-scratch#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "eslint": "^6.8.0",
+    "mocha": "^7.1.0"
+  }
+}
